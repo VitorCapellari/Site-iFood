@@ -1,0 +1,77 @@
+.body{
+
+    background-image: url("https://www.ifood.com.br/static/images/groceries-landing-page/desktop-background.png");
+    background-repeat: no-repeat;
+    background-position: center center;}
+
+.login{    
+border: none;}
+
+.flex1{
+    display: flex;
+    justify-content: center;
+}
+
+.flex2{
+    display:flex;
+    justify-content: center;
+}
+
+.flex3{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo{
+
+width: 100px ; height: 100px;
+}
+
+.titulo{
+ font-size: 50px;
+ text-align: center;
+}
+
+.subt{
+    text-align: center;
+    font-size: 25px;
+}
+ 
+
+.botão{
+    width: 200px; 
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+.b1{
+    
+    background-color: #ea1d2c;
+    font-size: 1rem;
+    color: #fff;
+
+    width: 200px;
+    height: 50px;
+    border:none;
+    
+    border-radius: 5px;
+
+    text-align: center; 
+
+}
+
+.op{    
+
+    border: none;
+}
+
+.FAQ{
+    background-color: #ea1d2c;
+    border-color: black;
+}
+
+
